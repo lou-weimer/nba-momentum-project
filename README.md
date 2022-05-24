@@ -1,2 +1,2 @@
 # nba-momentum-project
-Code for data manipulation and analysis for the paper "A Causal Approach to Detecting Team-Level Momentum in NBA games", with Zachary Steinert-Threkeld and Kevin Coltin.
+Code for data manipulation and analysis for the paper "A Causal Approach to Detecting Team-Level Momentum in NBA games", with Zachary Steinert-Threkeld and Kevin Coltin. The data used for this project comes from a private aggregator and is not mine to distribute.
